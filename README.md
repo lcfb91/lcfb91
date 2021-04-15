@@ -1,16 +1,23 @@
-### Hi there 👋
+## About me 👋
 
-<!--
-**lcfb91/lcfb91** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- 🗺️ Current @ Porto, Portugal 🇵🇹
+- 🌇 Born @ Chaves, Portugal 🇵🇹
+- Interests: 📷 | ⚽️ | 🧑‍💻 
 
-Here are some ideas to get you started:
+## Current Job
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+💻  Software Engineer @ [Talkdesk](https://www.talkdesk.com/) [Jan 2021 - now]
+
+![Talkdesk](https://www.callcentrehelper.com/images/logos/talkdesk-logo-1-280.gif)
+
+
+## Experience
+
+💻 Software Engineer & Head of Product @ Codavel/Streambolico [2014 - 2021]
+
+
+## School
+
+👨‍🎓 Master's Degree Electronical and Computers Engineering [2009 – 2014]
+
+![FEUP](https://paginas.fe.up.pt/~lfc-scc/imgs/Logo%20novo%20FEUPbranco.jpg)
